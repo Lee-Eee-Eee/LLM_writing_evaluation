@@ -1,4 +1,4 @@
-# EduandAI — Methodology & Replication Package
+# LLM_writing_evaluation — Methodology & Replication Package
 
 基于 **Herbold 等 (2023)** ——《A large-scale comparison of human-written versus ChatGPT-generated essays》（*Scientific Reports*, DOI: 10.1038/s41598-023-45644-9）的实验设计复现与扩展，比较多个现代大语言模型（LLM）生成作文与高中生作文。
 
@@ -6,7 +6,7 @@
 
 本仓库包含完整的研究方法与可复现流水线：
 
-1. **作文生成** —— 多个 LLM 对 14 个代表性题目（从 Herbold 等原始数据集分层采样）生成议论文
+1. **作文生成** —— 多个 LLM 对 15 个代表性主题（从 Herbold 等原始数据集分层采样）生成议论文
 2. **AI 教师评分** —— 多个 LLM 评估器使用与 Herbold 等一致的 7 项评分细则进行盲评
 3. **客观语言学特征提取** —— 自动计算词汇、句法、语篇层面的语言学特征
 4. **评分聚合与主观-客观相关性分析** —— 跨评估器汇总评分，计算校正权重，分析主观评分与客观语言特征的关联
@@ -51,7 +51,7 @@ eduandai-methodology/
 │   ├── plot_aggregated.py                   # 聚合数据可视化
 │   ├── render_objective_heatmap.py          # 客观特征热力图
 │   └── render_objective_table.py            # 客观特征表格
-└── outputs/
+└── outputs/                                 # 不会上传到本仓库，本次研究的数据下载方式见下
     ├── essays-wide.csv                      # 完整作文数据集（宽表格式）
     ├── ratings_paper_aligned.csv            # 9 位 AI 教师的汇总评分
     ├── ratings_summary_by_source.csv        # 按来源汇总的评分统计
@@ -86,11 +86,13 @@ eduandai-methodology/
     └── figures/                             # 预生成的研究图表
 ```
 
+[点击此处可下载2026年4月部分模型的测试数据集](https://cloud.tsinghua.edu.cn/d/e4591ca9610a469cacdc/)
+
 ## 研究方法
 
 ### 1. 作文生成
 
-**题目**：从 Herbold 等 (2023) 的 90 道题目中，按学生分数分布分层采样 14 个题目，涵盖教育、科技、文化、社会、健康、媒体等多个领域。
+**题目**：从 Herbold 等 (2023) 的 90 道主题中，按学生分数分布分层采样 15 个主题，涵盖教育、科技、文化、社会、健康、媒体等多个领域。
 
 **提示词**（零样本）：
 
@@ -98,7 +100,7 @@ eduandai-methodology/
 
 - **User Prompt**: `"Write an essay with about 200 words on \"{topic}\"."`
 
-**生成模型**：包括 GPT-5、Claude Opus 4、Gemini 3 Pro、DeepSeek V3、Qwen 3、Kimi K2、MiniMax M2、GLM-5 等多个 2024–2025 世代 LLM。每个模型生成 14 篇约 200 词的英文议论文。
+**生成模型**：可使用Open AI兼容的api接口接入大模型进行作文生成，每个模型生成 14 篇约 200 词的英文议论文。
 
 对于不通过本流水线 API 调用的外部模型，使用 `config/external_generation_prompts.md` 中的标准化提示词格式手动生成，再合并回数据集。
 
@@ -234,7 +236,9 @@ python scripts/batch_grade_essays.py \
 
 `mock.json` 中的 `base_url: "mock"` 会触发 `essay_benchmark/grading.py::mock_grade`，基于词长与词汇启发式返回模拟分数。
 
-## 与原论文的主要差异
+## 与原论文的主要差异（2026年4月）
+
+[数据在此处（同上）](https://cloud.tsinghua.edu.cn/d/e4591ca9610a469cacdc/)
 
 | 维度 | Herbold 等 (2023) | 本研究 |
 |---|---|---|
