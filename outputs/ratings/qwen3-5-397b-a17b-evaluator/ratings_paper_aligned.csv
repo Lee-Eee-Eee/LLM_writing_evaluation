@@ -1,0 +1,195 @@
+﻿session,quelle,thema,erstellt,teacher_name,teacher_model,overall_score,themenbezogenheit,logik-des-aufbaus,ausfuehrlichkeit-aussagekraft,sprachbeherrschung,komplexitaet,wortschatz-textverknuepfung,gebrauch-sprachlicher-strukturen
+11b55b1fb6074f41bc4311a51bb36f0c,Student,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.21,5.0,4.5,4.5,4.0,3.5,4.0,4.0
+0f4c97bf966841cca386d8f1b91d5547,ChatGPT-3,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,4.5,5.0,5.5
+e7e4a565f71b4751acb99a2f5d403275,ChatGPT-4,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.86,6.0,6.0,6.0,6.0,5.5,5.5,6.0
+ca3d4a8174504f7cbf796cfcb7c0dcf2,Qwen3.6Plus,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+1c123cdba0114f189f44463432bb8029,Kimi-K2.6,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+30c6f45a0e9847f9b0d055ae1de799e5,GLM-5.1,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,4.5,5.0,5.5
+8a3412b3323d463488185a2909e75470,MiniMax-M2.7,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,4.5,5.0,5.5
+f863addf0a5346569211e2b9be8743f6,DeepSeek-V3.2,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.86,6.0,6.0,6.0,6.0,5.5,5.5,6.0
+8b414853130646f0b3f98b058e0125b8,GPT-5.5,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,4.5,5.0,5.5
+16c9337829134ab2a5325fc541329f10,DeepSeek-V4Pro,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+95eda1d50fc2455089196fc53ff5b797,ClaudeOpus4.6,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.86,6.0,6.0,6.0,6.0,5.5,5.5,6.0
+d19747ad6d4d42ea9cfcf23ae2d6a3de,ClaudeOpus4.7,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.86,6.0,6.0,6.0,6.0,5.5,5.5,6.0
+952bfcf1f50444269b4741d98004b5fb,Gemini3.1Pro,Is image more powerful than the written word?,2026-04-27T05:13:44.535061+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+b1f85e5fbe0842a8a3cf5016c456634b,Student,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.64,5.0,4.0,3.5,3.0,3.5,3.5,3.0
+4452ffe498704c16adf7da85dc43e1d8,ChatGPT-3,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.14,5.5,5.0,5.5,5.5,4.5,5.0,5.0
+4416bf2c9a27431ebdcb301e205abdd7,ChatGPT-4,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.71,6.0,5.5,6.0,6.0,5.5,5.5,5.5
+b489222a2a2a4d3b8c1462e45e083a47,Qwen3.6Plus,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+ac9a46059af74a609ae08a409aef9706,Kimi-K2.6,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+41eee29bbf04412bbe745701288218d3,GLM-5.1,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+a2b6e7b6469447fba77e29eef8e13a80,MiniMax-M2.7,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+ab43dc22bd2845bcbb635dda5fbe3ec4,DeepSeek-V3.2,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.79,6.0,5.5,6.0,6.0,5.5,5.5,6.0
+b3d362cf9ca5420da01a09a22bc488e0,GPT-5.5,Locker checks,2026-04-27T05:14:04.715313+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+bf0bb48e1fdb49508570a8f385708470,DeepSeek-V4Pro,Locker checks,2026-04-27T05:14:04.715828+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+9b9a765fdf1f49e7ab7a7402ea094d53,ClaudeOpus4.6,Locker checks,2026-04-27T05:14:04.715828+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+154f41eb735047b69c1becd5efa56e14,ClaudeOpus4.7,Locker checks,2026-04-27T05:14:04.715828+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+4f819914232d42909b52df0284c30395,Gemini3.1Pro,Locker checks,2026-04-27T05:14:04.715828+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.79,6.0,5.5,6.0,6.0,5.5,5.5,6.0
+8febf43e575e44e1b812de5994bfa4ce,Student,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.0,5.0,4.5,4.0,3.5,3.5,4.0,3.5
+d12c9f68f4c0423fade9f13d87249c67,ChatGPT-3,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,4.5,5.0,5.5
+1b6552e66b404987a856388ecbc2f6fb,ChatGPT-4,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+fd70c40735a44a619dab20e16ceef7f5,Qwen3.6Plus,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+1d333c2a74ef43cfaf78f17515a7fb14,Kimi-K2.6,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+965c43c987f949478bd8921a99e08630,GLM-5.1,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+fdccecea57cf465f84c19f126ddcb4d5,MiniMax-M2.7,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+aa137022934f42c594a20e3b180b80b9,DeepSeek-V3.2,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+4574f6cc6aa24640942541897f5b1023,GPT-5.5,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+66710595f2bc4b4cba6c4054f9a4ba5f,DeepSeek-V4Pro,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+922b1e5fc876444cadb6db48dfe44f9c,ClaudeOpus4.6,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+644e5d79a55f438381aa43aa320bb4f5,ClaudeOpus4.7,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+c12b84ad0b754e5f99d24d170872159e,Gemini3.1Pro,Why you should exercise,2026-04-27T05:14:24.663895+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+17c29aa51e334693acd976d036bcb5a0,Student,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.86,5.5,5.0,5.0,4.5,4.5,5.0,4.5
+a3680c238f2b4712bd5f5a85de629ef3,ChatGPT-3,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.5,4.5,4.5,5.0,5.0,3.5,4.5,4.5
+a0d0c76951844dd196e0db9c6f0dab44,ChatGPT-4,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+80967f7c388d42189ef5e8e8a89128f8,Qwen3.6Plus,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+7d829ae3365948b1bfae828f3cccd44b,Kimi-K2.6,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+d23929ab3d384c21b9ccabc871128b48,GLM-5.1,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+ef856ae8d6184a79944d4d9ec40e520c,MiniMax-M2.7,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+93f0510489ed424ebe136072e4bb0461,DeepSeek-V3.2,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+426fa237feac46c993c9e765ad6f444f,GPT-5.5,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+a64fb10276d74ce0b12915f967eacf2e,DeepSeek-V4Pro,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+de9ab00a2fc040b88b2e355f72a27362,ClaudeOpus4.6,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+7b70e2414e5741f8967e270a3393fb55,ClaudeOpus4.7,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+46ca1a1b66a64b6dbd7e41785b10d92e,Gemini3.1Pro,Traditional games or modern games in developing children's skills,2026-04-27T05:14:45.380321+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+e210e4ca3b1e475699a0cf5414580c5e,Student,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.57,4.0,4.0,3.5,3.5,3.0,3.5,3.5
+7f42701da0684c1c82192cf3acb51fcc,ChatGPT-3,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+6a3c98b485164d6486d93cd49e769234,ChatGPT-4,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+d584892d31084131bdab8cd90c879e5d,Qwen3.6Plus,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+fb0550d8d7024087970a2e1bc64c2d88,Kimi-K2.6,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+9392c1a960a841bdbb0f7b0bacd90140,GLM-5.1,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+5e3a81b76b9546898945c546010ffcc9,MiniMax-M2.7,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9044062adc1b4cbb9f17cd1e7ae62adc,DeepSeek-V3.2,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+14fdd26c2f4444fa801b9b0fc2d8c421,GPT-5.5,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+dfd8c20d7a454506955c63c2d61b6aa2,DeepSeek-V4Pro,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+fa225f5922f042ceae11aa73ee0caa70,ClaudeOpus4.6,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+30b1b59b04604666ab11e982dfa33b1a,ClaudeOpus4.7,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+cdc4b290a3a14684bbeec663c02eebee,Gemini3.1Pro,Museums as a form of entertainment or education?,2026-04-27T05:16:12.043753+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+7a3b5b00719b4a8992b0203e82466829,Student,Everyone Should Go Camping,2026-04-27T05:16:31.281772+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.29,5.5,4.5,4.5,4.0,3.5,4.0,4.0
+56ee5dd5e1194e4bbb245ae91aea911c,ChatGPT-3,Everyone Should Go Camping,2026-04-27T05:16:31.281772+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.0,4.0,4.0,4.5,4.5,3.0,4.0,4.0
+2685a33be2b74757a5c1f23b4b85d3df,ChatGPT-4,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+c6f6e6c7ff1b468ab42bf5f2dc1754fc,Qwen3.6Plus,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+e1cdc3f619714254bb9c88149f0f44f4,Kimi-K2.6,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+f39676d204ec40e1a4bbc21449e5253f,GLM-5.1,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+997dfae95216410cb0ef8260359ef504,MiniMax-M2.7,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+fd36756f74674f35ac697dc0822b92e7,DeepSeek-V3.2,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+7298c82f06b5480cb6c1f8e342cbaf6a,GPT-5.5,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+a3b67419b5d24eadbfe0fe0f8d79d385,DeepSeek-V4Pro,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+8996120a34a142fbb829da237d077c04,ClaudeOpus4.6,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+df58693bf8d446ac9b1a61b9f16e1b47,ClaudeOpus4.7,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+e94416c0feb44759b221d32137782a27,Gemini3.1Pro,Everyone Should Go Camping,2026-04-27T05:16:31.283491+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+b148dfa849904a069b4852a66cd3fb14,Student,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.5,5.0,4.5,4.5,4.5,4.0,4.5,4.5
+13bccbddb81f4bf79375fbbcc9e73fab,ChatGPT-3,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.5,4.5,4.5,5.0,5.0,3.5,4.5,4.5
+2603e45278a14f57b573ad180008d6d2,ChatGPT-4,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.14,5.5,5.0,5.5,5.5,4.5,5.0,5.0
+312cf2f059fd44f59cc2784291ded6f3,Qwen3.6Plus,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+8b3f26439cb04053baaaadc935d55319,Kimi-K2.6,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+180b9f2e769c42289b0e9c57df8dca15,GLM-5.1,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.5,4.5,4.5,5.0,5.0,3.5,4.5,4.5
+932c0981ff5a433d85fc8d783f42a507,MiniMax-M2.7,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+e37062a6cd2048b3a4940280c37b7719,DeepSeek-V3.2,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+c8971b3a680146918820a36d8c8e6c30,GPT-5.5,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+68bc9d17de7d40e0be2786c780e515fc,DeepSeek-V4Pro,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+a3971ba1297a496698c696d9345beed5,ClaudeOpus4.6,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+76532e5d0ad045e3855e4cc6b0e5bc87,ClaudeOpus4.7,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+be929400d0314e9fb1f5a6213856e85e,Gemini3.1Pro,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T05:16:52.118045+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.0,5.5,5.5,5.0,5.0,5.5
+e26085413112486c96dec5136165b477,Student,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.64,4.5,4.0,3.5,3.5,3.0,3.5,3.5
+2ddd160b75604a4995468fc27f0d0d11,ChatGPT-3,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+0f3f0fed37894a92815b3581f3bad87e,ChatGPT-4,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+a39d06679a6941d5bae713a43805cfde,Qwen3.6Plus,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+aea373b4a9614532a0bfa26a5323ef14,Kimi-K2.6,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+f92358fe86d14dba881f2db9775806ed,GLM-5.1,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+5a55f9a314394d9dbdd9b0ff76349a26,MiniMax-M2.7,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+a3ff03c4faaa483f8451a818e4cf22df,DeepSeek-V3.2,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+70410d37a8034d388b53ac84c228ad2f,GPT-5.5,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+95dc3b2c1b214fb3b7bdba6597920f23,DeepSeek-V4Pro,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+204a466019344f0e8f52ec4955f7c69b,ClaudeOpus4.6,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+43642c0c829c459199b18ef66bb91ae4,ClaudeOpus4.7,Giving mobile phones to the unemployed,2026-04-27T05:17:17.480800+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+6d5bac263b89432a92f9b306d90e1c86,Gemini3.1Pro,Giving mobile phones to the unemployed,2026-04-27T05:17:17.482497+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+9c7a0ee40b7d49b6bcd8e3be2ba9e633,Student,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.0,4.0,3.5,3.0,2.5,2.5,3.0,2.5
+45fad5e9b82945a19227c3f9fdcd8ee2,ChatGPT-3,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+d4d2bf3e4df242b6ab76ba0c5c250587,ChatGPT-4,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+a2a3cda9ec344b14bd28aa23d1e06959,Qwen3.6Plus,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+6b22775c559746cc9c237b2869ec8b5c,Kimi-K2.6,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+69096d26491e4985adb2ebb70b42d4ed,GLM-5.1,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9d2c3060367b4101853ec2e99ee19193,MiniMax-M2.7,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+5b31fb1382e947899c1da6549e97a4bf,DeepSeek-V3.2,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+067d5e847fd14fa791edd40aa2957d95,GPT-5.5,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+c69e3fe468be4eb19ffbfdf6a9554885,DeepSeek-V4Pro,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+4360f95648814a7181630656e24ed2c6,ClaudeOpus4.6,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+f3f7344f189842338604c87d2c120c74,ClaudeOpus4.7,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+77c4c8ef064f4bd499bb180a504430e2,Gemini3.1Pro,International sporting occasions help to ease international tensions,2026-04-27T05:17:38.594771+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+bb31908ebb4d498684d60a67e82423c7,Student,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.64,5.0,4.0,3.5,3.0,3.5,3.5,3.0
+c225e4a1889a4536ae9791c66e5a6ea6,ChatGPT-3,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+95d4d57535d74ba18b44c6865affc2f7,ChatGPT-4,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+fe3631ff4d33497e8727a9ceeea3b76d,Qwen3.6Plus,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+e307283cfa5e4fa49398851a42167050,Kimi-K2.6,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+087e2e57bc6e4761a952ac23c2b05e2b,GLM-5.1,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+16402b4b2f064674b1f2fa41f4f76ddc,MiniMax-M2.7,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+3c3d1c4fad924f36a66dea055457e23b,DeepSeek-V3.2,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9d7c6cdd166243bdabbc1e21acd320f2,GPT-5.5,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+8b0ea605cdeb4763bfcb03d45e3886c8,DeepSeek-V4Pro,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+de82867e9ffb4d479fbb9bb50767abb2,ClaudeOpus4.6,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9a9ec39b02fd4f7a9915105f9a58b6f8,ClaudeOpus4.7,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+687bef9b41384f1e8e79443ae68337f8,Gemini3.1Pro,The Non-Issue of Same Sex Marriage,2026-04-27T05:18:00.355333+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+a36829c86177447aa8c8eb15413e7924,Student,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.79,4.5,4.0,4.0,3.5,3.5,3.5,3.5
+771496d6a14b42cb9db74fcd024a4973,ChatGPT-3,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+24594d16b34a46768a871e8399e0e7a3,ChatGPT-4,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+71766481bf7149b0b105cd2701d92dc5,Qwen3.6Plus,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+09345953db2a4a97ab6cde332f5b27ee,Kimi-K2.6,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+d311d4d41025420eae9900fd744479e7,GLM-5.1,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+f514b5c5b1b84573a8bc6d5249d9c7dd,MiniMax-M2.7,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9b1748aa987b49b1815d1aeb3ae334bf,DeepSeek-V3.2,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+71c7794c7df544f795d05fe7d8d21f68,GPT-5.5,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+d6a30551d0af4332bf5c18fbd59aa806,DeepSeek-V4Pro,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+823255cd3621431d845079ceb8b1c2cf,ClaudeOpus4.6,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+08733a9241534bf598ced31dce9cbd9b,ClaudeOpus4.7,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+0da5166326a946dc823e119d7418573e,Gemini3.1Pro,museums and art galleries will disappear soon?,2026-04-27T05:18:19.976421+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+457e1db45abe43b6baa06936e791d500,Student,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.57,4.5,4.0,3.5,3.0,3.5,3.5,3.0
+d763bc0398de4b60990dddb0048d46c7,ChatGPT-3,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.93,4.0,4.0,4.0,4.0,3.5,4.0,4.0
+e5a0e06573b24cd19aee8c628ff3f97e,ChatGPT-4,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+78078f27cb7a4ab9be4a3abe15d6f64d,Qwen3.6Plus,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+f6da26a1e51f40729f1e7a8855127547,Kimi-K2.6,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+5c3789ca77f84919a45955cb1afea711,MiniMax-M2.7,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+7384f09c8afe423d917066d74231ceed,DeepSeek-V3.2,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+afda4e03bae54561b27f590b814cf646,GPT-5.5,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9d48bf704de348cda4423bd823531bd7,DeepSeek-V4Pro,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+33c9dd6ddfba4605a2602cafa5e2c378,ClaudeOpus4.6,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+4ebce73b61354718bbaccd3a54d9ff79,ClaudeOpus4.7,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+c5130c371e65491ea93896558f0a7eca,Gemini3.1Pro,Artists' freedom to express ideas,2026-04-27T05:18:38.879908+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.36,5.5,5.0,5.5,5.5,5.0,5.5,5.5
+10a1acab7d3f498db74e1d5bd7d03bb3,Student,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.14,5.0,4.5,4.5,3.5,4.0,4.0,3.5
+53e46201cc3b4f1285c20b931a33f717,ChatGPT-3,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.14,5.5,5.0,5.5,5.5,4.5,5.0,5.0
+ca7096191b81423fbb225e620e9c7339,ChatGPT-4,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.71,6.0,5.5,6.0,6.0,5.5,5.5,5.5
+cd712d689edb4a4a806c995423cb60be,Qwen3.6Plus,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.79,6.0,6.0,6.0,6.0,5.5,5.5,5.5
+6f7868e3c57642baa826c33696621260,Kimi-K2.6,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+613a8471de324bfc931670cf63b51583,GLM-5.1,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+3f8eb56b5c5546c5acc48ad34da39e0b,MiniMax-M2.7,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+dc0b10d56388490cb2054ae076399ac2,DeepSeek-V3.2,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.79,6.0,6.0,6.0,6.0,5.5,5.5,5.5
+865bfb71af7e4dbf9424e92af060c193,GPT-5.5,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.5,5.0,5.5,5.0,4.5,4.5,4.5
+c4aaad50685341e2a8e4cf0dbaf79af0,DeepSeek-V4Pro,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.79,6.0,6.0,6.0,6.0,5.5,5.5,5.5
+a1fe2398bdfb4797af558a5882c4f57e,ClaudeOpus4.6,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+0226d74e1e3644dc819aec28e403970b,ClaudeOpus4.7,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+9c2cb0fc067949468909b9025d542247,Gemini3.1Pro,Should governments be responsible to help the unemployed and homeless,2026-04-27T05:19:00.196379+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.57,6.0,5.5,5.5,5.5,5.5,5.5,5.5
+fb3846bfa90c453b9868ebdfaa3b39b7,Student,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.21,4.0,3.5,3.5,3.0,2.5,3.0,3.0
+7e7d7f8e66994859b43da97c838ea2ea,ChatGPT-3,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+66639d9eb6e84c4ca6dc2231b47455d2,ChatGPT-4,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+86f53f2cc8b84bd19656fc9f0448ddba,Qwen3.6Plus,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+192b5bb80ce14db1a75ed53712470118,Kimi-K2.6,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+26cfbc12673a49188f6e889565ac3c24,GLM-5.1,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+025b24bc1a034bc6aa3853435b8d56e2,MiniMax-M2.7,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+820505687c3b42cca4833747383a05b6,DeepSeek-V3.2,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+3c44b9947a124eeb84e23866c4c4500d,GPT-5.5,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+907c18d18fb441c3bccd8ecda1e7009d,DeepSeek-V4Pro,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+99e143e00437435f8770f0c824655f11,ClaudeOpus4.6,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+894fd6aba5db4c7ea51914a162ef0da9,ClaudeOpus4.7,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+dcec147e55a0491fb61a9845d0edb030,Gemini3.1Pro,Knowledge from experience is more important than that from books,2026-04-27T05:19:19.186983+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+6d2de556cdcc4fbcb3a8f1e4c5e95f25,Student,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,3.21,4.0,3.5,3.5,3.0,2.5,3.0,3.0
+9c55be15919640d3b3b44d376d3eeca4,ChatGPT-3,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+99c5e66877a747909f946cdae9be1a64,ChatGPT-4,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+2535f8509f2342fd9f46fa70d4620530,Qwen3.6Plus,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+37a4126386dd41bb9497b357de51b780,Kimi-K2.6,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+5c3c2a82a040470eab38748784c0dd5a,GLM-5.1,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+c6b8c59e72c944b394a22e05862ed5da,MiniMax-M2.7,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+4617a66a14c746f487c8e6a445c71055,DeepSeek-V3.2,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+3824b5a29cd54635928f80da19ebbbb1,GPT-5.5,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+439784a2607f41e9a4f675433f6b2642,DeepSeek-V4Pro,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+d2a17469c9cb4524b8c57b8151629582,ClaudeOpus4.6,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+f41e3b5cb20f45188be2a2909ef65d05,ClaudeOpus4.7,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,5.93,6.0,6.0,6.0,6.0,5.5,6.0,6.0
+40ade042aca24504bd3cfd5189d1a389,Gemini3.1Pro,Several languages are in danger of extinction,2026-04-27T05:19:39.367367+00:00,Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0

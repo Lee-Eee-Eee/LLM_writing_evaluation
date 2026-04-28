@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ModelName1",
+    "base_url": "https://your-api-endpoint.com/v1",
+    "api_key_env": "MODEL1_API_KEY",
+    "model": "provider/model-name",
+    "temperature": 1.0,
+    "system_prompt": "You are a student writing an English argumentative essay for an upper-secondary writing task. Write directly and do not mention that you are an AI.",
+    "user_prompt_template": "Write an essay with about 200 words on \"{topic}\".",
+    "extra_body": ""
+  },
+  {
+    "name": "ModelName2",
+    "base_url": "https://your-api-endpoint.com/v1",
+    "api_key_env": "MODEL2_API_KEY",
+    "model": "provider/model-name-2",
+    "temperature": 1.0,
+    "system_prompt": "You are a student writing an English argumentative essay for an upper-secondary writing task. Write directly and do not mention that you are an AI.",
+    "user_prompt_template": "Write an essay with about 200 words on \"{topic}\".",
+    "extra_body": ""
+  }
+]

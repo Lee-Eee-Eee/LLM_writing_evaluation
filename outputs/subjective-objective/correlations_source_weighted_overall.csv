@@ -1,0 +1,16 @@
+﻿objective_feature,target,n,pearson_r,spearman_r
+modals_all,overall_score__weighted,13,-0.8496802359650519,-0.5384615384615384
+modals2,overall_score__weighted,13,-0.8379438961364541,-0.5604395604395606
+word_count,overall_score__weighted,13,-0.7570485100473777,-0.22527472527472525
+LD,overall_score__weighted,13,0.74679232146456,0.7087912087912087
+sent_count,overall_score__weighted,13,-0.7183837907088333,-0.16506205436421884
+EpMarkers,overall_score__weighted,13,-0.700277723966096,-0.6158403982089181
+mod_per_sent,overall_score__weighted,13,-0.6626209032392719,-0.4505494505494505
+discourse,overall_score__weighted,13,-0.6608686002057491,-0.07142857142857142
+ep_per_sent,overall_score__weighted,13,-0.5977697720136271,-0.5785145918831042
+nom_per_sent,overall_score__weighted,13,0.5478081581736625,0.6043956043956044
+modals1,overall_score__weighted,13,-0.5459645294664834,0.11279240381554954
+sent_complex_depth,overall_score__weighted,13,-0.24418990661311998,-0.06593406593406594
+dm_per_sent,overall_score__weighted,13,-0.07532731686630902,0.11538461538461539
+nominalisation,overall_score__weighted,13,0.07476858635372834,0.3026137663344012
+sent_complex_tags,overall_score__weighted,13,0.018329002688710218,-0.04395604395604395

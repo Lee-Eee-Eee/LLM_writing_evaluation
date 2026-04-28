@@ -1,0 +1,11 @@
+[
+  {
+    "name": "MockEvaluator",
+    "base_url": "mock",
+    "api_key_env": "",
+    "model": "mock-grader",
+    "temperature": 1.0,
+    "system_prompt": "mock",
+    "extra_body": ""
+  }
+]

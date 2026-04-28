@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Evaluator1",
+    "base_url": "https://your-api-endpoint.com/v1",
+    "api_key_env": "EVAL1_API_KEY",
+    "model": "provider/evaluator-model-1",
+    "temperature": 0.2,
+    "max_tokens": 3000,
+    "system_prompt": "You are an English essay scorer. Return exactly one compact JSON object and no other text. Score only the seven requested criteria.",
+    "extra_body": ""
+  },
+  {
+    "name": "Evaluator2",
+    "base_url": "https://your-api-endpoint.com/v1",
+    "api_key_env": "EVAL2_API_KEY",
+    "model": "provider/evaluator-model-2",
+    "temperature": 0.2,
+    "max_tokens": 3000,
+    "system_prompt": "You are an English essay scorer. Return exactly one compact JSON object and no other text. Score only the seven requested criteria.",
+    "extra_body": ""
+  }
+]

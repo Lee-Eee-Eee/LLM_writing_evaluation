@@ -1,0 +1,14 @@
+﻿quelle,themenbezogenheit,logik-des-aufbaus,ausfuehrlichkeit-aussagekraft,sprachbeherrschung,komplexitaet,wortschatz-textverknuepfung,gebrauch-sprachlicher-strukturen,overall_score
+ChatGPT-3,4.23,4.33,4.8,4.97,3.63,4.17,4.03,4.31
+ChatGPT-4,4.63,4.7,5.03,5.1,4.17,4.6,4.37,4.66
+ClaudeOpus4.6,4.9,4.97,5.17,5.23,4.53,4.67,4.57,4.86
+ClaudeOpus4.7,5.0,5.13,5.43,5.43,4.9,4.97,4.87,5.1
+DeepSeek-V3.2,4.9,4.97,5.37,5.4,4.77,4.93,4.8,5.02
+DeepSeek-V4Pro,5.23,5.4,5.53,5.53,5.23,5.27,5.17,5.34
+GLM-5.1,4.71,4.82,5.14,5.18,4.43,4.57,4.46,4.76
+GPT-5.5,4.6,4.7,5.03,5.03,4.27,4.4,4.33,4.63
+Gemini3.1Pro,4.67,4.5,5.13,5.43,4.83,4.97,5.0,4.93
+Kimi-K2.6,5.0,5.2,5.4,5.47,4.97,5.0,4.87,5.13
+MiniMax-M2.7,5.07,5.17,5.27,5.3,4.67,4.87,4.67,5.0
+Qwen3.6Plus,5.1,5.23,5.43,5.47,5.0,5.07,4.93,5.18
+Student,4.6,4.33,4.33,3.87,3.77,4.0,3.77,4.1

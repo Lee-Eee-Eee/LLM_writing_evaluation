@@ -1,0 +1,16 @@
+# Core pipeline
+pandas>=2.0
+requests>=2.28
+
+# NLP / linguistic features
+spacy>=3.5
+lexicalrichness>=0.5
+nltk>=3.8
+
+# Analysis & visualization
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# PDF text extraction (for extract_study_assets.py)
+pypdf>=3.0

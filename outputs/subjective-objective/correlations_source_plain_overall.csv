@@ -1,0 +1,16 @@
+﻿objective_feature,target,n,pearson_r,spearman_r
+modals_all,overall_score__plain_teacher_mean,13,-0.8630767330595243,-0.5384615384615384
+modals2,overall_score__plain_teacher_mean,13,-0.847015147747796,-0.5604395604395606
+word_count,overall_score__plain_teacher_mean,13,-0.7813041716025695,-0.22527472527472525
+sent_count,overall_score__plain_teacher_mean,13,-0.740680895807506,-0.16506205436421884
+LD,overall_score__plain_teacher_mean,13,0.7352886070427622,0.7087912087912087
+EpMarkers,overall_score__plain_teacher_mean,13,-0.6941709943439909,-0.6158403982089181
+discourse,overall_score__plain_teacher_mean,13,-0.6851798581275632,-0.07142857142857142
+mod_per_sent,overall_score__plain_teacher_mean,13,-0.6621620245713756,-0.4505494505494505
+ep_per_sent,overall_score__plain_teacher_mean,13,-0.5825903621924902,-0.5785145918831042
+modals1,overall_score__plain_teacher_mean,13,-0.5742473196602286,0.11279240381554954
+nom_per_sent,overall_score__plain_teacher_mean,13,0.5494790497361712,0.6043956043956044
+sent_complex_depth,overall_score__plain_teacher_mean,13,-0.2481286704137503,-0.06593406593406594
+dm_per_sent,overall_score__plain_teacher_mean,13,-0.08353006519183862,0.11538461538461539
+nominalisation,overall_score__plain_teacher_mean,13,0.05837699466402423,0.3026137663344012
+sent_complex_tags,overall_score__plain_teacher_mean,13,0.02498764712033488,-0.04395604395604395

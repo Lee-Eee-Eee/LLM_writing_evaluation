@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MockWriter",
+    "base_url": "mock",
+    "api_key_env": "",
+    "model": "mock-writer",
+    "temperature": 1.0,
+    "system_prompt": "mock",
+    "user_prompt_template": "Write an essay with about 200 words on \"{topic}\".",
+    "extra_body": ""
+  }
+]

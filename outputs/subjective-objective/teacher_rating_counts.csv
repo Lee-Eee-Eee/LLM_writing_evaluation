@@ -1,0 +1,10 @@
+﻿teacher_name,teacher_model,count,mean,std
+ClaudeHaiku4.5 Evaluator,anthropic/claude-haiku-4.5,194,5.2971,0.3079
+DeepSeek-V3.2 Evaluator,DeepSeek-V3.2,194,5.1914,0.4241
+Doubao-Seed-2.0-Pro Evaluator,bytedance/doubao-seed-2-0-pro,194,4.8473,0.4716
+GPT-5.4 Mini Evaluator,openai/gpt-5.4-mini,194,5.6357,0.4109
+Gemini3.1FlashLite Evaluator,google/gemini-3.1-flash-lite-preview,194,4.7696,0.5416
+Grok-4.0-Fast Evaluator,x-ai/grok-4.0-fast,194,5.206,0.5648
+Kimi-K2.5 Evaluator,Kimi-K2.5,194,4.7847,0.5356
+MiniMax-M2.7-Highspeed Evaluator,minimax/minimax-m2.7-highspeed,194,4.5089,0.8646
+Qwen3.5-Flash Evaluator,ali/qwen3.5-flash,194,5.4602,0.632

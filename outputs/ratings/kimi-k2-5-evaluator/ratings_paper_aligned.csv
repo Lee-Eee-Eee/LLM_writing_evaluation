@@ -1,0 +1,195 @@
+﻿session,quelle,thema,erstellt,teacher_name,teacher_model,overall_score,themenbezogenheit,logik-des-aufbaus,ausfuehrlichkeit-aussagekraft,sprachbeherrschung,komplexitaet,wortschatz-textverknuepfung,gebrauch-sprachlicher-strukturen
+479c19554ed545599fd3deea969faa6a,ChatGPT-3,Locker checks,2026-04-26T15:45:17.416296+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,5.0,4.5,5.0,4.5,3.5,4.0,4.0
+edeb79778f3d473eac6c984509fea711,ChatGPT-4,Locker checks,2026-04-26T15:45:35.895387+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.64,5.0,4.5,5.0,5.0,4.0,4.5,4.5
+bb90195789574eaa975a508e4ee59b15,Qwen3.6Plus,Locker checks,2026-04-26T15:45:41.055127+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+5186bf4703344a5887243cca9f0efcab,Kimi-K2.6,Locker checks,2026-04-26T15:45:44.007552+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+b69343c356fd4a1ba9df793087360223,MiniMax-M2.7,Locker checks,2026-04-26T15:45:55.934947+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+c445f46028574dd799cd9f0b2fcd8b3d,DeepSeek-V3.2,Locker checks,2026-04-26T15:46:00.200147+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.5,5.0,4.0,4.5,4.5
+9b250493b763436a812c1fabc21390e3,DeepSeek-V4Pro,Locker checks,2026-04-26T15:46:05.270962+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+1f00f5432e604d85a08e80490b51265d,ClaudeOpus4.7,Is image more powerful than the written word?,2026-04-26T15:45:05.358077+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+bc76304d2aa64956ba4fce80cd2f9fe4,Gemini3.1Pro,Is image more powerful than the written word?,2026-04-26T15:45:07.864887+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.0,5.0,5.5,5.5,4.5,5.0,5.0
+128790fef5df4bcca953a06dad257c54,GLM-5.1,Locker checks,2026-04-26T15:45:49.848696+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+acb3e70019e74d51967efb6a40b9b97d,GPT-5.5,Locker checks,2026-04-26T15:46:02.668125+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.0,5.0,5.5,5.5,4.5,5.0,5.0
+1142a510f02e4d9ab1749a84bd6a367e,ClaudeOpus4.6,Is image more powerful than the written word?,2026-04-26T15:45:00.682521+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+1ffcf43de1174d07858d20eb138d4cba,Student,Locker checks,2026-04-26T15:45:14.616907+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.57,4.0,3.5,4.0,3.5,3.0,3.5,3.5
+db588bc141134e11aab92ab7eeeef88f,Student,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.86,4.5,4.0,4.0,4.0,3.5,3.5,3.5
+488f44c5f5084283b3cb64449c4d77b5,ChatGPT-3,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.79,4.0,4.0,4.0,4.0,3.5,3.5,3.5
+88f1a2603af4445ca22804c332e7558d,ChatGPT-4,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,5.0,4.5
+db68ab0c4ab84f14b674255dd0e414b2,Qwen3.6Plus,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+b75dccd591a2424aa44fa77d3984a26e,Kimi-K2.6,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.86,6.0,6.0,6.0,6.0,5.5,6.0,5.5
+ff19c6834b24441692460cd4352ecf6c,GLM-5.1,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+4a49c9f4e40b457c8215daf17372a3ea,MiniMax-M2.7,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+32255a6b507a4b019e7e4332f8b06d2a,DeepSeek-V3.2,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+78dd69aa005a42f79bd1b6a283cf2fba,GPT-5.5,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+ec6183bfb9f94eecacb9daf5a9e91a98,DeepSeek-V4Pro,Is image more powerful than the written word?,2026-04-27T01:18:52.170124+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+34beb967c23e435c9d08306e5dbf44ca,ClaudeOpus4.6,Locker checks,2026-04-27T01:19:06.466218+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+1ee0662b99aa4de6b750382ac3b7a693,ClaudeOpus4.7,Locker checks,2026-04-27T01:19:06.466218+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+9f2143a208c54b848d7fb1c0df429bf2,Gemini3.1Pro,Locker checks,2026-04-27T01:19:06.466218+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.57,5.0,4.5,4.5,4.5,4.5,5.0,4.0
+2cdcdff2283f4a5ba461b509436a69e8,Student,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,5.5,5.0,4.5,4.0,4.0,4.0,4.0
+a9de69acf09444d483d70a4d0cdb83e1,ChatGPT-3,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+52e318ed8db34980801889e2f90fbf65,ChatGPT-4,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+4a22c6e2a47c4d38b47f36e6f03c7444,Qwen3.6Plus,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+d00d1c0a1ea84c0b80a0c472352b1e77,Kimi-K2.6,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+8cacf991c9764e119fb61d4c213a6a64,GLM-5.1,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+8b1454b6d2124fd0812fc4c5c5ac03f2,MiniMax-M2.7,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.5,5.5,5.0,5.0,4.5,4.5,4.5
+34d43c1f7b3243ffbbd937f63a050f61,DeepSeek-V3.2,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+61678a2ad9a84833896110ddd6e97801,GPT-5.5,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+764fad7938e1428097bf2d72c0443e12,DeepSeek-V4Pro,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+c20d8b5ebbad4b898154dcd6d26697ee,ClaudeOpus4.6,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+2bd918bcd16241d185c12819b3394b8e,ClaudeOpus4.7,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+6e492f9bfc4c4922a46acc1cf22efe7c,Gemini3.1Pro,Why you should exercise,2026-04-27T01:19:54.597105+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.0,5.5,5.5,6.0,5.5,5.5
+cfe0d51059e7489bba8009a8e1eb16b5,Student,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,5.0,4.5,4.5,4.0,4.0,4.0,4.0
+975c9756d9b54f4881c13b4f0bafca38,ChatGPT-3,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.79,4.0,4.0,4.0,4.0,3.5,3.5,3.5
+d5ca1156eb9646679b8f6cb48ecdabdc,ChatGPT-4,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+7230ab04856c47ed9989b2fc14fe04c7,Qwen3.6Plus,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+f820205bc2714e70a00b865f536512b5,Kimi-K2.6,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,5.0,4.5
+9bbdc7bf9f874237b2ba7dd6de827b03,GLM-5.1,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+3668427ddd794080bcdfceaf1d4f3033,MiniMax-M2.7,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+8a14a78268034ab38394c033355effaa,DeepSeek-V3.2,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+5d95258bb8fb4d8b9b3f3ec595318e63,GPT-5.5,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.07,4.5,4.5,4.5,4.0,3.5,4.0,3.5
+defc721b4e2941e59912ee6a6b021639,DeepSeek-V4Pro,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,5.0,4.5
+26dd4bbebea34ee3b58b9feae42830ee,ClaudeOpus4.6,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.913236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+069b8f2e277347eabe9fe0a0c92af21c,ClaudeOpus4.7,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.914971+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+a62734ccb2094bdeb64ec33cc36ef6a8,Gemini3.1Pro,Traditional games or modern games in developing children's skills,2026-04-27T01:20:48.914971+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+5409e52e86cf44e2831f640e381ea7d2,Student,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.29,4.0,3.5,3.5,3.0,3.0,3.0,3.0
+911c61730e3344d0a1d9e28a8d27c05b,ChatGPT-3,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+5a0dd72f52dd411cafe68d321acab83e,ChatGPT-4,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+9e330c0490924b1289541050349970e4,Qwen3.6Plus,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+c5e9355896be4243957091eb364aeee3,Kimi-K2.6,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+738a05fae96944a089e4b53312bed002,GLM-5.1,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+f2f344842861424b9fb738bd6a1cfa35,MiniMax-M2.7,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+d8bb8f9685934769bfd14f3ebb72c19b,DeepSeek-V3.2,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.0,5.0,5.5,5.5,4.5,5.0,5.0
+2fcf2521ae344867ba73e03abf6a7e81,GPT-5.5,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+bdab05a43084493ebe9c0f288a747207,DeepSeek-V4Pro,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+5dd5ce819b8246d88092e9da4ce56dea,ClaudeOpus4.6,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+6acd5262afbf486a943c6ffaf74ee2f0,ClaudeOpus4.7,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+0cb1d4ef950d4c61a08cda65a93b84fa,Gemini3.1Pro,Museums as a form of entertainment or education?,2026-04-27T01:22:19.042005+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+df35e10240dc498cb1d196b3b9a03783,Student,Everyone Should Go Camping,2026-04-27T01:23:46.803652+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,5.0,4.5,5.0,4.5,4.0,4.0,4.0
+bd991b12445c48d4992ce6b5ad83867e,ChatGPT-3,Everyone Should Go Camping,2026-04-27T01:23:52.044436+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.93,4.5,4.0,4.5,4.5,3.0,3.5,3.5
+453f1a9cfcd5471482a163279e9544e8,ChatGPT-4,Everyone Should Go Camping,2026-04-27T01:23:54.653929+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.0,5.5,5.0,5.0,5.0,4.5,5.0,5.0
+a16f62ae351f46618954b74cceeef2f8,Qwen3.6Plus,Everyone Should Go Camping,2026-04-27T01:23:59.376121+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+9bf85aabbde346c3ac6e4362f0a9a866,Kimi-K2.6,Everyone Should Go Camping,2026-04-27T01:24:02.119555+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+db07d697284040e88fe487840abd3281,GLM-5.1,Everyone Should Go Camping,2026-04-27T01:24:06.882901+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.5,5.0,5.5,5.0,4.5,5.0,5.0
+d7a26c2925cb43648469d9a602178618,MiniMax-M2.7,Everyone Should Go Camping,2026-04-27T01:24:12.262629+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.5,5.0,5.5,5.0,4.0,4.5,4.5
+c0c454a6a2fb4924845b6c7f74b1fa9d,DeepSeek-V3.2,Everyone Should Go Camping,2026-04-27T01:24:18.011379+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.21,5.5,5.5,5.5,5.5,4.5,5.0,5.0
+9a0360e73d16470b95c450d85d4f379b,GPT-5.5,Everyone Should Go Camping,2026-04-27T01:24:24.169420+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+9578675868e84dca8293733715171438,ClaudeOpus4.6,Everyone Should Go Camping,2026-04-27T01:24:36.961851+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+623e0d06817049b9adb078fd1764e4c9,ClaudeOpus4.7,Everyone Should Go Camping,2026-04-27T01:24:39.491801+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.14,5.5,5.0,5.5,5.5,4.5,5.0,5.0
+0d2c01d953aa48009d0385e4d98cea21,Gemini3.1Pro,Everyone Should Go Camping,2026-04-27T01:24:53.120680+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+093ed4e433344bcf8942d7abdf4d6b26,Student,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.0,5.5,5.0,5.0,5.0,4.5,5.0,5.0
+1edc182e094a4cb280fc92ab48860edd,ChatGPT-3,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+9c1a5202f8d443158f764b441c6fd2a9,ChatGPT-4,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.5,4.0,4.5,5.0,5.0,4.0,4.5,4.5
+36107deb027b4d1e93206fdb6faf9be9,Qwen3.6Plus,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+3ee4cacaf26b4ca2a574709f3ed79a53,Kimi-K2.6,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+bb2fa512c28a485dbf7070ff01194a0e,GLM-5.1,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.07,4.0,4.0,4.5,4.5,3.5,4.0,4.0
+015bfaf3a9224b54b84b411a40e9c1c5,MiniMax-M2.7,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+75d76bb16d5f4837a19d5c74155fea23,DeepSeek-V3.2,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+185b70df1e2344d29493cee577346428,GPT-5.5,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+9a1fa901eddb40b38c9f6fda30a7480c,DeepSeek-V4Pro,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+44a58f13918847eb81bb052a404ccdb6,ClaudeOpus4.6,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+6ee671b8ab6642ab8c3e3d2890ad8b36,ClaudeOpus4.7,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+5a05e652886f46d4994bf8595a99d491,Gemini3.1Pro,Solve traffic and housing problems by moving companies to the rural areas?,2026-04-27T01:26:51.986283+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.0,4.5,5.5,5.5,5.5,5.5,5.5
+f6cf4ffb6c3f4d2abcf9347e5b1670a0,Student,Giving mobile phones to the unemployed,2026-04-27T01:28:25.552779+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.71,4.0,4.0,4.0,3.5,3.5,3.5,3.5
+fa6dd2bb91eb4de881325b39378dcf88,ChatGPT-3,Giving mobile phones to the unemployed,2026-04-27T01:28:30.253211+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.14,4.5,4.0,4.5,4.5,3.5,4.0,4.0
+016e1dd212ac4466b8fba7d66cf33ad6,ChatGPT-4,Giving mobile phones to the unemployed,2026-04-27T01:28:38.080896+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.5,5.0,5.0,5.0,4.0,4.5,4.5
+ea9b4d6fa2fe4c2d9987bc8e3d0794b3,Qwen3.6Plus,Giving mobile phones to the unemployed,2026-04-27T01:28:45.643340+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
+8722bf0416f14c0681cf08b7fc441bf8,Kimi-K2.6,Giving mobile phones to the unemployed,2026-04-27T01:28:48.322866+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.14,5.5,5.0,5.5,5.5,4.5,5.0,5.0
+00caea66ba9447988fe10848e8904a27,GLM-5.1,Giving mobile phones to the unemployed,2026-04-27T01:28:56.284540+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.5,5.0,4.0,4.5,4.5
+080d76bff1694d91ae3365a1158d49d8,MiniMax-M2.7,Giving mobile phones to the unemployed,2026-04-27T01:29:03.183323+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+e0f0820ce73643038eabd4b5213f9248,DeepSeek-V3.2,Giving mobile phones to the unemployed,2026-04-27T01:29:09.052985+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+a912a0bb3c85402186b65522bcf00930,GPT-5.5,Giving mobile phones to the unemployed,2026-04-27T01:29:19.343558+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.5,5.0,4.0,4.5,4.5
+9892114924e047a5896a6c375334dc90,DeepSeek-V4Pro,Giving mobile phones to the unemployed,2026-04-27T01:29:25.026932+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.5,5.0,5.5,5.0,4.5,5.0,5.0
+f8574f126d824366875ee062238ce95b,ClaudeOpus4.6,Giving mobile phones to the unemployed,2026-04-27T01:29:34.147000+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,5.0,5.0,5.0,4.0,4.5,4.5
+8a56e80e2d30441a837f19973cf42676,ClaudeOpus4.7,Giving mobile phones to the unemployed,2026-04-27T01:29:44.951798+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.21,5.5,5.5,5.5,5.5,4.5,5.0,5.0
+788e965811ef4437941e43e22735086c,Gemini3.1Pro,Giving mobile phones to the unemployed,2026-04-27T01:29:55.136127+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,5.0,4.5
+ebd53d1925f44ee7b8d8763667af1f07,Student,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.252679+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.29,4.0,3.5,3.5,3.0,3.0,3.0,3.0
+e12316e8e41e473da43c58c2f288653d,ChatGPT-3,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+157b1af902574f93bdc068ff606a0eb8,ChatGPT-4,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+c9e24d92837047b9a7aedad50133308a,Qwen3.6Plus,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+cdcf48fbc3de4a04b643f45cc4263b33,Kimi-K2.6,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+00c1118a199b49c2a87d4d1971282eb9,GLM-5.1,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+fb8f4fe3c1c7416dba1779851a88f5e3,MiniMax-M2.7,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+9a49af1d7c29465f941d3392b592d0fb,DeepSeek-V3.2,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+9950f9ca324944f5bd46d1fd7b453c86,GPT-5.5,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+3f7ae4903baa422588a123fc8c8cd09a,DeepSeek-V4Pro,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+3deefffa8bb14e96a166ceae98a37277,ClaudeOpus4.6,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+0fa01e0ed5b24cbeaf7a8d701ccdbdb6,ClaudeOpus4.7,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+3db606fb97344f1b8dab454c0f38291e,Gemini3.1Pro,International sporting occasions help to ease international tensions,2026-04-27T01:30:46.253691+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,4.5,5.0,5.0,4.5,5.0,4.5
+2748912d28474e83ac5b12befea27bbd,Student,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.29,4.0,3.5,3.5,3.0,3.0,3.0,3.0
+6ae952396d344a28a2a911c2445ac0db,ChatGPT-3,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.07,4.0,4.0,4.5,4.5,3.5,4.0,4.0
+47336498e0b4456e9ac93c549c759c7f,ChatGPT-4,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+a4f668dd13464340ab67f81e5a171078,Qwen3.6Plus,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+b0bff1e17d8c4a22896525b16736f794,Kimi-K2.6,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.0,5.0,5.5,5.5,5.0,5.5,5.5
+8ca54864ff3244b19ac9ec211e52a139,GLM-5.1,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.86,4.0,4.0,4.0,4.0,3.5,3.5,4.0
+d0b32809303642f3bc39fc1c4d25a63b,MiniMax-M2.7,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,4.5,5.0,5.0,5.0,4.5,5.0,5.0
+9e9d95b195eb40d5acce503da3405d3a,DeepSeek-V3.2,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.0,5.0,5.5,5.5,5.0,5.5,5.5
+185467d743214c789da134f5abbec54d,GPT-5.5,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.86,4.0,4.0,4.0,4.0,3.5,3.5,4.0
+de985cffa4e84c508dbe64318af0cf63,DeepSeek-V4Pro,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.0,5.0,5.5,5.5,5.0,5.5,5.5
+845b0dd4ee8044509232d3a936e2ce21,ClaudeOpus4.6,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+ff126d3698ac4efcbd9b893efa660bcf,ClaudeOpus4.7,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+9412fb9dfb5a4df791110e8c2d22377f,Gemini3.1Pro,The Non-Issue of Same Sex Marriage,2026-04-27T01:31:37.530395+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,4.5,5.0,5.0,4.5,5.0,5.0
+cd6cdf4df0dc4cdd871c2258ffbf20c7,Student,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.29,4.0,3.5,3.5,3.0,3.0,3.0,3.0
+a54cd7b8045842a59cc3670ae7a143e6,ChatGPT-3,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+17f0094763374a1b91ad8c769b28b9b4,ChatGPT-4,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+e7b60e12fa594a39b58daef8f3f8a91c,Qwen3.6Plus,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+72bc1d86a8a8453a9fe74a87b96f7025,Kimi-K2.6,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+343fe556610b41a59345f8915b555be9,GLM-5.1,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+79ebfaf0f7fb44d2a40a5f8c88699048,MiniMax-M2.7,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+59c3235eef754350a581a90dc54b8faa,DeepSeek-V3.2,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+2f070e88d7d5482f9434b19645fb3910,GPT-5.5,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+594f607569f8499ca78b6cb0a1830738,DeepSeek-V4Pro,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+2fabc5019d5c49fcaa2cf40ded8ce8c5,ClaudeOpus4.6,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+b632936eed994c48b222f08eb64d80b3,ClaudeOpus4.7,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+d8a3fee3375948bcbfae60df9f59384b,Gemini3.1Pro,museums and art galleries will disappear soon?,2026-04-27T01:33:04.301392+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,4.5,5.0,5.0,4.5,4.5,5.0
+394f829ac061410cb8705ed2929a7fd6,Student,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.79,4.5,4.0,4.0,3.5,3.5,3.5,3.5
+2640fd97e9a14b039ea8495d93326f01,ChatGPT-3,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.07,4.0,4.0,4.5,4.5,3.5,4.0,4.0
+275c51870c3847a59b87d69921c3a0c1,ChatGPT-4,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+b8814449351c4051820deeadebccbd25,Qwen3.6Plus,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+647bbd999bea4d3c90e46313062eaa42,Kimi-K2.6,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+1db3ccfda00247efa37838808d8b41e4,MiniMax-M2.7,Artists' freedom to express ideas,2026-04-27T01:34:19.617772+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+4d7354a5eafe42ef9ad911268080145c,DeepSeek-V3.2,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+cc9d8d3ebd714f4e8ce598a155f4ec33,GPT-5.5,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.5,4.5,4.5,4.0,4.0,4.0
+f73ca2ef735f4872a9bb95f6128cb50c,DeepSeek-V4Pro,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+f7e31174930342f0aedd98968806666d,ClaudeOpus4.6,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.43,4.5,4.5,4.5,4.5,4.0,4.5,4.5
+7043bee032564ac38c40d7098a4e8800,ClaudeOpus4.7,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+541a1d003aaf425381d4ac2052f3d36c,Gemini3.1Pro,Artists' freedom to express ideas,2026-04-27T01:34:19.619518+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.29,4.5,4.0,4.5,4.5,4.0,4.5,4.0
+225d10a3d46847ad84cfaaf784610489,Student,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.79,4.5,4.0,4.0,3.5,3.5,3.5,3.5
+6d7e42b1e308484ba684a0285aed4f19,ChatGPT-3,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.21,4.5,4.0,4.5,4.5,4.0,4.0,4.0
+f495220426c9414ea02d46d44da07a95,ChatGPT-4,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,4.5,5.0,5.0,4.5,4.5,4.5
+2298c5b0557644d4a715f6b8ee4262a3,Qwen3.6Plus,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.29,5.5,5.5,5.5,5.5,5.0,5.0,5.0
+dd0e6e39e88b422481dc976ecdfd2159,Kimi-K2.6,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+aec156f6f132449da90767b0b64d1054,GLM-5.1,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,4.5,5.0,5.0,4.5,4.5,4.5
+4babfd4c5c044813bd620c982d1e0c9c,MiniMax-M2.7,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+6a27e98d1be646288f04a50727750185,DeepSeek-V3.2,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+241e84bbb5454f7bb819d1eef16035ec,GPT-5.5,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.21,4.5,4.5,4.5,4.0,4.0,4.0,4.0
+a60e7ab0de524f9787c3b9df38903933,DeepSeek-V4Pro,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.5,5.0,5.0
+5d4ed2dafd5c4338bbf18867f9694da1,ClaudeOpus4.6,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.71,5.0,4.5,5.0,5.0,4.5,4.5,4.5
+29b61739795b4627973c9ee86df43303,ClaudeOpus4.7,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.79,5.0,5.0,5.0,5.0,4.5,4.5,4.5
+a6d0234bf6654ccbb774d2cc5085ecdb,Gemini3.1Pro,Should governments be responsible to help the unemployed and homeless,2026-04-27T01:35:10.275209+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.21,5.5,5.0,5.5,5.5,5.0,5.0,5.0
+8d2fe3fb58444ed9a3232a8df268256e,Student,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.050219+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,3.5,4.0,3.5,3.5,3.5,3.0,3.5,3.5
+91c0deb751e74e07972a9b7c1ba40869,ChatGPT-3,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.050219+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+1b08678ee5314cd1ac0e0fd7304def83,ChatGPT-4,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.050219+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.93,5.0,5.0,5.0,5.0,4.5,5.0,5.0
+83dd6b41a46e42719e9f52083192353a,Qwen3.6Plus,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.050219+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+2d77f88b55814d80947f95217b8fea74,Kimi-K2.6,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+73f26af70da84749bfbb33e1b10d6351,GLM-5.1,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+d484b4cd13df46fb99ff134a60c45541,MiniMax-M2.7,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+2ebca6552ded47cd84055d730788c010,DeepSeek-V3.2,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+cd64b7af22d94f67968b11065774ce1d,GPT-5.5,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+480d90e80a1d42aab9d1b6d79b84c251,DeepSeek-V4Pro,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+07f1123980934151a995054cc49640a1,ClaudeOpus4.6,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+dfc774c64f37452f9d8d97c573411f56,ClaudeOpus4.7,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.36,5.5,5.5,5.5,5.5,5.0,5.0,5.5
+b9293b8a6a6c4889bcc09fe46c82762e,Gemini3.1Pro,Knowledge from experience is more important than that from books,2026-04-27T01:36:05.051190+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+8f85abfc36a346d68c94b40868c9e380,Student,Several languages are in danger of extinction,2026-04-27T01:37:51.567201+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,2.86,3.5,3.0,3.0,2.5,2.5,3.0,2.5
+76a9174c9f824eb79d917bf8d5c2985a,ChatGPT-3,Several languages are in danger of extinction,2026-04-27T01:37:51.567201+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+557d2b1c1861412d98bf3c763413b05a,ChatGPT-4,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+eb4ac45be1f9466691fb2a6d9ab48474,Qwen3.6Plus,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+4679cf82b02e4cdaa6eb5890405aa997,Kimi-K2.6,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+d0a8dc0164814b1dbe2dd50fcbf9362d,GLM-5.1,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.36,4.5,4.5,4.5,4.5,4.0,4.0,4.5
+ba13937d0a2442348d5f0898b280db9d,MiniMax-M2.7,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+f201c31ffb7548df9d63492fd03f2366,DeepSeek-V3.2,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+ec50d5cc5fdf44608334cac3ed11119f,GPT-5.5,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.5,4.5,4.5,5.0,5.0,4.0,4.0,4.5
+bdb7f1352ab143f9acf9b76a521a8e57,DeepSeek-V4Pro,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+263a921548f14be28192a02e8282e0c1,ClaudeOpus4.6,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+e71702753ebb42eb8fbb00d1688e7edf,ClaudeOpus4.7,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,4.86,5.0,5.0,5.0,5.0,4.5,4.5,5.0
+31e36c783f374d52b68deae510415698,Gemini3.1Pro,Several languages are in danger of extinction,2026-04-27T01:37:51.568236+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.07,5.5,5.0,5.0,5.0,5.0,5.0,5.0
+9b98b9823fca4c76874c9db7d2c38796,DeepSeek-V4Pro,Everyone Should Go Camping,2026-04-27T05:15:41.749815+00:00,Kimi-K2.5 Evaluator,Kimi-K2.5,5.43,5.5,5.5,5.5,5.5,5.0,5.5,5.5
