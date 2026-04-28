@@ -36,7 +36,7 @@ eduandai-methodology/
 ├── .gitignore
 ├── config/
 │   ├── rubric.json                          # 7 项评分细则（0–6 分制，0.5 步长）
-│   ├── representative_topics.json           # 14 个题目 + 学生范文 + ChatGPT-3/4 参考作文
+│   ├── representative_topics.json           # 15 个主题 + 学生范文 + ChatGPT-3/4 参考作文
 │   ├── reference_stats.json                 # Herbold 等 (2023) 基线分数
 │   ├── external_generation_prompts.md       # 外部/第三方 LLM 生成调用的提示词格式
 │   ├── model_providers.example.json         # 模板 — 重命名为 model_providers.json
@@ -60,7 +60,7 @@ eduandai-methodology/
 │   ├── plot_aggregated.py                   # 聚合数据可视化
 │   ├── render_objective_heatmap.py          # 客观特征热力图
 │   └── render_objective_table.py            # 客观特征表格
-└── outputs/                                 # 不会上传到本仓库，本次研究的数据下载方式见下
+└── outputs/                                 # 不会上传到本仓库，2026年4月数据集的下载方式见下文
     ├── essays-wide.csv                      # 完整作文数据集（宽表格式）
     ├── ratings_paper_aligned.csv            # 9 位 AI 教师的汇总评分
     ├── ratings_summary_by_source.csv        # 按来源汇总的评分统计
@@ -83,15 +83,6 @@ eduandai-methodology/
     │   ├── objective_features_long.csv
     │   └── objective_features_summary_by_source.csv
     ├── ratings/                             # 各评估器的独立评分
-    │   ├── gpt-5-4-evaluator/
-    │   ├── claudeopus4-7-evaluator/
-    │   ├── deepseek-v3-2-evaluator/
-    │   ├── gemini3-1pro-evaluator/
-    │   ├── kimi-k2-5-evaluator/
-    │   ├── minimax-m2-7-evaluator/
-    │   ├── qwen3-5-397b-a17b-evaluator/
-    │   ├── grok-4-1-fast-evaluator/
-    │   └── doubao-seed-2-0-pro-evaluator/
     └── figures/                             # 预生成的研究图表
 ```
 
@@ -253,7 +244,7 @@ python scripts/batch_grade_essays.py \
 |---|---|---|
 | 比较模型 | GPT-3.5 / GPT-4 | 多个 2024–2025 世代 LLM（9+ 模型） |
 | 评估者 | 108 位真人教师 | LLM 教师代理（9 位 AI 评估器） |
-| 题目数 | 90 | 14（代表性子集，按难度分层） |
+| 主题数 | 90 | 15（代表性子集，按难度分层） |
 | 语言学特征 | 7 项（6 类） | 扩展至含可读性与 POS 指标 |
 | 教师校准 | 无 | 基于人类评分的 RMSE 权重校准 |
 
