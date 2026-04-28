@@ -2,6 +2,15 @@
 
 基于 **Herbold 等 (2023)** ——《A large-scale comparison of human-written versus ChatGPT-generated essays》（*Scientific Reports*, DOI: 10.1038/s41598-023-45644-9）的实验设计复现与扩展，比较多个现代大语言模型（LLM）生成作文与高中生作文。
 
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![pandas](https://img.shields.io/badge/pandas-2.0+-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![spaCy](https://img.shields.io/badge/spaCy-3.5+-09A3D5?logo=spacy&logoColor=white)](https://spacy.io/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.8+-3776AB?logo=python&logoColor=white)](https://www.nltk.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
+[![pypdf](https://img.shields.io/badge/pypdf-3.0+-F37626?logo=python&logoColor=white)](https://pypdf.readthedocs.io/)
+
 ## 概述
 
 本仓库包含完整的研究方法与可复现流水线：
@@ -257,3 +266,20 @@ Herbold, S., Hautli-Janisz, A., Heuer, U., Kikteva, Z., & Trautsch, A. (2023). A
 ## 许可
 
 仅供研究与教育用途。
+
+## 📜 鸣谢
+
+本项目为\
+**北京大学 2026 年春季《教育与人工智能》课程**\
+作业成果，感谢课程主讲教师**贾积有教授**在研究选题、分析方法与平台设计上的悉心指导。
+
+作者 · [**李涛**](https://github.com/Lee-Eee-Eee) · 清华大学工程物理系
+
+---
+
+<div align="center">
+
+若本项目对你的研究或课程有帮助，欢迎 ⭐ Star 支持。
+问题与建议请通过 [Issues](https://github.com/Lee-Eee-Eee/EduAnalytics/issues) 反馈。
+
+</div>
